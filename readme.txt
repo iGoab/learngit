@@ -8,3 +8,4 @@ Yes, I'm in branch1
 Creating a new branch is quick.
 Yes, i am in branch2.
 Oh, you are foolish.
+No, what can i do?
