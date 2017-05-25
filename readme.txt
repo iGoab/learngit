@@ -16,4 +16,8 @@ oh, yes, create a branch.
 Git is free software.
 Git is free software, and you can do it.
 Haha, yes, you can do it.
+<<<<<<< Updated upstream
 Git is free software.
+=======
+Oh, you are so beautiful.
+>>>>>>> Stashed changes
