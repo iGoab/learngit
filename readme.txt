@@ -21,3 +21,4 @@ Git is free software.
 =======
 Oh, you are so beautiful.
 >>>>>>> Stashed changes
+Git is a free software.
